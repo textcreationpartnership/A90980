@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A famous city turned into stone. Or, A fearfull example for England to take warning by: in which is contained all the full and whole description of a famous city in Barbary, that was for their rebellion against God (in the twinkling of an eye) both men, women, and children, with all the cattle, houses, and materials therein turned to stone. The manner how shall in this little booke be faithfully and truely related according to very good authors, which have since this great and miraculous wonder happened, been at the place where it was done, and have seene (with much teror) those things which shall be presantly spoken of. / Writen by Laurence Price.</title>
+            <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90980</idno>
+            <idno type="STC">Wing P3360</idno>
+            <idno type="STC">Thomason E1638_2</idno>
+            <idno type="STC">ESTC R209054</idno>
+            <idno type="EEBO-CITATION">99867959</idno>
+            <idno type="PROQUEST">99867959</idno>
+            <idno type="VID">170190</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90980)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170190)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 206:E1638[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A famous city turned into stone. Or, A fearfull example for England to take warning by: in which is contained all the full and whole description of a famous city in Barbary, that was for their rebellion against God (in the twinkling of an eye) both men, women, and children, with all the cattle, houses, and materials therein turned to stone. The manner how shall in this little booke be faithfully and truely related according to very good authors, which have since this great and miraculous wonder happened, been at the place where it was done, and have seene (with much teror) those things which shall be presantly spoken of. / Writen by Laurence Price.</title>
+                  <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Vere at the Angell without Newgate.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1657. [i.e. 1656]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page on recto of A2; woodcut illustrations on verso of A1; text begins on recto of A3.</note>
+                  <note>Annotation on Thomason copy: "Decemb. 23"; the 7 in the imprint date has been crossed out and replaced with a "6".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>God --  Wrath --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170190:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 76 -->
+            <p>A famous <hi>City</hi> turned INTO STONE.</p>
+            <p>
+               <hi>OR, A</hi> Fearfull example for <hi>England</hi> To take warning by: In which is contained all the full and whole Deſcription of a famous City in <hi>Barbary,</hi> that was for their Re<g ref="char:EOLhyphen"/>bellion againſt God (in the twinkling of an eye) both Men. Women, and Children, with all the Cattle, Houſes, and materials therein turned into Stone. The manner how ſhall in this little Booke be faithfully and truely Related according to very good <hi>Authors,</hi> which have ſince this great and miraculous wonder happened, been at the place where it was done, and have ſeene (with much Teror) thoſe thïngs which ſhall be preſantly ſpoken of.</p>
+            <p>Writen by <hi>Laurence Price.</hi>
+            </p>
+            <p>London, Printed for <hi>Tho. Vere</hi> at the <hi>An<g ref="char:EOLhyphen"/>gell</hi> without <hi>Newgate.</hi> 1657.</p>
+         </div>
+         <div type="copyright_notice">
+            <pb facs="tcp:170190:2"/>
+            <!-- PDF PAGE 77 -->
+            <p>A famous <hi>City</hi> turned INTO STONE.</p>
+            <p>Entered according to Order.</p>
+         </div>
+         <div type="frontispiece">
+            <p>
+               <figure>
+                  <head>Angrogra</head>
+                  <figDesc>depiction of a city overlooked by Calvary and threatened by a heavenly sword and thunderbolt</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>two men and a woman lament</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:170190:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 77 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:170190:3"/>
+            <!-- PDF PAGE 78 -->
+            <pb n="5" facs="tcp:170190:3"/>
+            <!-- PDF PAGE 78 -->
+            <head>A famous City turned INTO STONE.</head>
+            <p>THat God is angry with the World for Sin, may appeare by this following wonder; the like whereof was never known ſince the Worlds firſt Creation: in the fruitfull and floriſhing Kingdom of <hi>Tri<g ref="char:EOLhyphen"/>pilo</hi> in <hi>Barbary,</hi> fome fourſcore miles up in the Land, there was not long ſince a famous Citty called <hi>Angrogra,</hi> at which Citty in former times before the Wars grew ſo hot betwéen <hi>England</hi> and <hi>Spain,</hi> our Engliſh Merchants had great com<g ref="char:EOLhyphen"/>merce, and made Traffick with the in<g ref="char:EOLhyphen"/>habiters thereof.
+<pb n="6" facs="tcp:170190:4"/>
+               <!-- PDF PAGE 79 -->This Citty was ſenced about with ma<g ref="char:EOLhyphen"/>ny lofty bull-works, &amp; wals, with eight great Gates made of Cedar, and Cy<g ref="char:EOLhyphen"/>prus wood; the Citty it ſelfe was of ſe<g ref="char:EOLhyphen"/>ven miles compaſſe round by juſt ac<g ref="char:EOLhyphen"/>count and meaſure: within the which were ſix and fifty faire and goodly Pa<g ref="char:EOLhyphen"/>riſh Churches, moſt richly adorned with Gold &amp; Silver, having their locks and keys for the moſt part of them made of pure Gold, the reaſon why? was be<g ref="char:EOLhyphen"/>cauſe that Gold in that parts is more plentifull then Iron or Stéel, and there is a mighty great Golden Mine ſome ſeven or eight miles from the Citty in which many labouring Men are work<g ref="char:EOLhyphen"/>ing and digging for the ore continually, and according as Men dig for the ore, and mettell of Iron, Coles, Tinn, or Lead here in <hi>England,</hi> ſo faſt do they dig and get Gold and Silver in ſome parts of <hi>Barbary,</hi> and the <hi>Barbary</hi> Gold is accounted to be the fineſt and pu<g ref="char:EOLhyphen"/>reſt Gold in all the World: and now to goe forward in my diſcourſe concerning the Citty, I will endeavor my ſelfe to be as ſpéedy as I may. The fornamed Citty had many ſtately Buildings and
+<pb n="7" facs="tcp:170190:4"/>
+               <!-- PDF PAGE 79 -->Territors therein, and abundance of pleaſant ſtréets facing every way, with ſeverall Market places belonging there unto, in the midſt thereof there was a ſtately Burs or Exchange, where all manner of rich Merchants and others daily frequented about their Worldly affairs, there were likewiſe thrée gal<g ref="char:EOLhyphen"/>lant Theators, or Play-houſes, which were aloud every day in the wéek ſo of<g ref="char:EOLhyphen"/>ten as they thought good to uſe their vaine glorious excerciſes. Moreover there were great plenty of wealthy Shops, and rich Merchants Houſes, in all the chiefeſt ſtréets of the Citty? and to be briefe there was never a Citty of that bigneſs in all <hi>Africa</hi> that had more abundance of People in it then was in the Citty of <hi>Angrogra,</hi> nor never were People given to more pleaſure, then were the People of that Citty at that very ſame timé when their deſtruction came upon them: ſome were buying and ſelling in the Markets for profu<g ref="char:cmbAbbrStroke">̄</g>t, ſome were Feaſting and merry making a<g ref="char:EOLhyphen"/>mongſt their Friends and acquaintance: ſome were vauting and dancing in dan<g ref="char:EOLhyphen"/>cing Schooles, ſome were acting their
+<pb n="8" facs="tcp:170190:5"/>
+               <!-- PDF PAGE 80 -->parts in the Play-houſes, whilſt others were drinking and ſwaggering in Ale<g ref="char:EOLhyphen"/>houſes. But in as ſhort ſpace as <hi>Lot's</hi> Wife was turned into a Pillar of Salt <hi>Gen. 23. v. 14.</hi> was this ſtately Citty turned alſo into ſtone, and ſo it is like to continue to the end of the World; and as for the People that were therein they were all tranſformed into ſtone e<g ref="char:EOLhyphen"/>very Man, every Woman, and every Child, the manner how is as followeth.</p>
+            <p>HEre is a briefe and true relation of the admirable alteration of the famous Citty of <hi>Angrogra</hi> according to the Letters that were ſent into <hi>England</hi> this preſent yeare <hi>1656.</hi> which Letters were ſent by them that were eye wit<g ref="char:EOLhyphen"/>neſſes, as namely the potent Dake of <hi>Florence;</hi> the Baſſa or Prince of the Countrey, and two of our Engliſh Mer<g ref="char:EOLhyphen"/>chants that by reaſon of Tempeſtious weather at Sea, was driven to an An<g ref="char:EOLhyphen"/>chor nere unto the ſhore of <hi>Barbary,</hi> who hearing of this ſtrange miraculous wonder, ſome of our Engliſh Seamen having admittance, travel'd up into the heart of the Land, and did behold this
+<pb n="9" facs="tcp:170190:5"/>
+               <!-- PDF PAGE 80 -->ſad and unexpected admiration, and laſtly one that is very well known to be a faithfull Friend to his Native Countrey, Sir <hi>Kellum Digby</hi> by name. a worthy Engliſh Knight, who having received intelligence from the Prince of <hi>Barbary,</hi> and the Duke of <hi>Florence,</hi> ſent it into <hi>England</hi> to have it put in Print, that we may take warning by their deſtruction: the Men that were at that time in the Citty walking up and down the ſtréets about their Buſineſſe, were imediately turned into ſtone, ſo were the rich Aldermen and Merchants with chaines of Gold about their necks, and all the Gorgerus, Gownes, and A<g ref="char:EOLhyphen"/>parrell that they did weare, were like<g ref="char:EOLhyphen"/>wiſe turned into ſtone; they alſo that were in their Houſes were ſerved in the ſelfe ſame kind: a great company of the chiefeſt young Men and Maids were aſſimbled together in a large and ſpaci<g ref="char:EOLhyphen"/>ous Hall, to ſolemnize a wedding, with Muſick and dancing, &amp; much merriment, were in the twinkling of an Eye both Bridegroome and Bride, Neighbours and Strangers, every, living body and dead Creatures all turned into ſtone:
+<pb n="10" facs="tcp:170190:6"/>
+               <!-- PDF PAGE 81 -->yet are every Man and every Woman ſtanding ſtill in the ſame poſture and ſhape as they were in when they were alive; them that were dancing and ca<g ref="char:EOLhyphen"/>poring after the Muſick, and they that ſtood ſtill were all ſtrucken dead &amp; turn<g ref="char:EOLhyphen"/>ed into ſtone, ſtanding ſtill in the place where they were before: they that were eating and drinking, ſitting at their Ta<g ref="char:EOLhyphen"/>bles or in other places, both them and their Victuals, Fleſh and Fiſh, Bread and Wine, and the Veſſels that held it was Metamorphoſed, and turned in<g ref="char:EOLhyphen"/>to ſtone; Women that had their little Infants ſucking at their tender Breaſts were in the very ſame Forme and por<g ref="char:EOLhyphen"/>traiture, whether ſtanding or ſitting, all turned into ſtone. A company of Men to the number of ſixtéen, that were digging in a plot of Ground, intending to make a Vineyard therof, were like the reſt all turned into ſtone, ſtanding ſtooping towards the Ground with their Sho<g ref="char:EOLhyphen"/>vels in their hands: All the People that were at the Theators and ſeverall Play-houſes, as well the Actors as the Spectators were every Creature turn<g ref="char:EOLhyphen"/>ed into ſtone: and to be briefe the Mul<g ref="char:EOLhyphen"/>titude of People rich and poore, old and
+<pb n="11" facs="tcp:170190:6"/>
+               <!-- PDF PAGE 81 -->young all ſpéed a like, there was not ſo much as one Man that eſcaped alive out of the Citty, to tell what was become of the reſt: and thus was all humane and unhumane Creatures that lived in the Citty ſtruck dead at an inſtant, &amp; turn<g ref="char:EOLhyphen"/>ed into ſtone; the covetous Man had no time to repent of his Sins, nor had the Drunkard the ſpace to aſke God for<g ref="char:EOLhyphen"/>givenéſſe: furthermore all the Horſes, Oxen, Shéepe, and Cattell, and feathe<g ref="char:EOLhyphen"/>red fowls, as Cocks, Hens, Géeſe, and Turkeys, Trées, wood, Timber, Gold, Silver, Braſs, and all other ſorts of Minerals, and Mettals, became to be ſtone, which may ſtand for a monument, and be known for a wonder from one Generation to another, ſo long as the Sun and Moone gives light, and the Earth and the firmament doth indure? and I am verily perſwaded, and ſo are many thouſands more beſide, that theſe Signes, &amp; theſe Tokens, and theſe won<g ref="char:EOLhyphen"/>ders, the pleaſure of the Lord was to ſend upon them that have little or no relation to the holy Goſpell of the Lord Ieſus Chriſt, becauſe we that are ac<g ref="char:EOLhyphen"/>counted for Chriſtians may conſider
+<pb n="12" facs="tcp:170190:7"/>
+               <!-- PDF PAGE 82 -->with our ſelves, and learn to beare a better conſcience both to God and Man; and this is my deſire that all ſorts of People that would willingly be called by the name of Chriſtians, may ſhew themſelves to walke like Chriſtians, &amp; with ſpéed every on to amend their ſin<g ref="char:EOLhyphen"/>full lives, for fear that the Lord in his anger ſhould lay the like, or as bad a puniſhment upon our Sinfull Nation; which God in his Mercy grant may ne<g ref="char:EOLhyphen"/>ver come to paſſe.</p>
+            <p>HEre followeth directions drawn both from the Scriptures, and from humane reaſon, whereby to adviſe all Sinners in time to fly unto the Lord for Mercy, and ſo to prevent Gods hea<g ref="char:EOLhyphen"/>vy Iudgments before it come upon us. <hi>Adam</hi> when he had lived but a little while in the Garden of <hi>Eden</hi> (which is called <hi>Paradiſe</hi>) for his diſobedience and breaking of Gods Commandement was driven out, and quite excluded for his rebellion. <hi>Gen. 3.14.</hi> The great and generall deluge, and drowning of the World, which is called <hi>Noahs flood</hi> was for provoking God to anger, in ſo much
+<pb n="13" facs="tcp:170190:7"/>
+               <!-- PDF PAGE 82 -->that God repented himſelfe that ever he made Man. <hi>Gen. 6. v. 6.</hi> and when the Lord rained downe Fire &amp; Btim<g ref="char:EOLhyphen"/>ſtone upon <hi>Sodom</hi> and <hi>Gomorah,</hi> it was done for the wickedneſſe of the People. <hi>Gen. 19.24.</hi> The curſe of the Lord ſell upon <hi>Egypt</hi> whereby their Land became unfruitfull, the Caterpillars devoured their Herbs, their rivers of water were turned into Blood, and Frogs, Lice, and Graſhopers brought the People to ruine <hi>Exod. 8.2.</hi> all which was brought to paſſe for their ungratefulneſſe towards God. The Chileren of <hi>Iſrael</hi> for murmu<g ref="char:EOLhyphen"/>ring againſt God, and his Prophet <hi>Mo<g ref="char:EOLhyphen"/>ſes,</hi> were bitten and ſtung to death with fiery Serpents. <hi>Numb. 25.6.</hi> And the deſtruction of <hi>Jeruſalem</hi> was becauſe they harkened not to the voice of the Lord, but Stoned and Murdered the Prophets when they were ſent unto them. <hi>Mat. 23.37. Corath, Dathan,</hi> and <hi>Abiram:</hi> ware ſwallowed up alive into the Earth, for their blaſpemous Sinus; and the prodigall Son was faine to féed upon the empty huſks, long of his abo<g ref="char:EOLhyphen"/>minable Pride, and voluptuous living. <hi>Luke. 1516. Judas Jſcariot</hi> had never
+<pb n="14" facs="tcp:170190:8"/>
+               <!-- PDF PAGE 83 -->have come to have hanged himſelfe, if it had not béen for his falſe diſſimulati<g ref="char:EOLhyphen"/>on and trechery. Nor had the glutton <hi>Dives</hi> béen tormented in the flames of Hell, if it had not béen for his covetovſ<g ref="char:EOLhyphen"/>neſſe, and deſpiſing of the Poore. <hi>Luke. 16.20.</hi> A many more ſuch ſad &amp; ſtrange examples, may be proved by the Scrip<g ref="char:EOLhyphen"/>tures, which is the word of the living God, to ſhew to the World wherefore God made us, and what in duty we are bound to doe: and now let us once more thinke upon the famous Citty which was turned into ſtone; their puniſh<g ref="char:EOLhyphen"/>ment was more then ours; our Sinns are greater then theirs: for had they had ſo many good and Godly Miniſters in that Citty, and Countrey, that are both able and willing to preach and to teach them the word of the living God, as praiſed be the name of the Lord, we have here in <hi>England,</hi> no doubt but they would have repented them of their ſins before that heavy vengeanc of the Lord lighted upon them. And now let every Man and Woman in <hi>England</hi> and elſe where turn from their wicked ways and amend their ſinfull lives, and as the
+<pb n="15" facs="tcp:170190:8"/>
+               <!-- PDF PAGE 83 -->Loord hath béen more mercifull to our ſinfull Nation then unto others, let us endeavour our ſelves to be more thank<g ref="char:EOLhyphen"/>full unto his Holy name, for the great and manifold Bleſſings which our good God have beſtowed upon us; and let us henceforth lay a part all pride of heart, and covetouſneſſe of mind, all hy<g ref="char:EOLhyphen"/>pocriſy, diſſimulation, all vaine glorious and blaſphemous opinions, all hatred, malice, ſpight, and envy, all curſing and ſwearing, ſedition, and miſcheif making, all conſpiracy and trechery one towards another; and to love and obey the com<g ref="char:EOLhyphen"/>mandements of the Lord above all Earthly pleaſure, and to kéepe a good conſcience, and doe unto all Men as we would have them to do unto us: and withall to pray unto the Lord to take a<g ref="char:EOLhyphen"/>way from us our ſtony hearts? and give us hearts of fleſh, and then if our fine were as red as Scarlet the Lord will make them as white as Snow, and though they were like Purple they ſhall he made as white as Wooll. <hi>Eſay. 1. v. 18.</hi> And to conclude in a word we were better all to repent with <hi>Ninivy,</hi> then to
+<pb n="16" facs="tcp:170190:9"/>
+               <!-- PDF PAGE 84 -->be burnt with <hi>Sodom,</hi> and take warning and learn by the fall of others, to lead our lives in the time to come in a better manner then here to fore we have done: which that we may, let us every one with dilligence call upon God early and late, at our up riſing, and lying downe, at our going forth and our comming in, that he will be our defender and kéeper all the days of our lives, and that for the ſake of Ieſus Chriſt our Lord, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
